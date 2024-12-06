@@ -1,5 +1,5 @@
 ---
-parent: Recipes
+parent: Cucurbita argyrosperma recipes
 title: Cushaw Pumpkin Pie
 layout: default
 has_children: false

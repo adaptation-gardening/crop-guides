@@ -1,5 +1,5 @@
 ---
-parent: Recipes
+parent: Cucurbita argyrosperma recipes
 title: Roasted Cushaw Puree
 layout: default
 has_children: false
