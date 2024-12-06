@@ -1,5 +1,5 @@
 ---
-title: Cucuribta
+title: Cucurbita
 layout: home
 nav_order: 50
 ---
