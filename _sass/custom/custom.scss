@@ -1,0 +1,191 @@
+html {
+    font-size: 18px !important;
+}
+
+.side-bar {
+    color: $nav-text;
+}
+
+.site-header {
+    margin-top: 0;
+    border-bottom: thick double $adaptation-green;
+    font-size: 1.1rem;
+    min-height: 120px;
+
+    a:hover {
+        background: unset;
+    }
+}
+
+#main-header {
+    border-bottom: 1px solid $grey-lt-300;
+}
+
+.site-title {
+    color: $nav-text;
+    padding: 0;
+    margin: 0;
+}
+
+#site-nav {
+    padding-top: 1rem;
+}
+
+// the next few overrides of just the docs could probably be made more elegant
+.nav-list .nav-list-item .nav-list-expander {
+    color: $adaptation-tan;
+
+    &:hover {
+        background: $purple-300;
+    }
+}
+
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-expander {
+    color: $adaptation-tan;
+}
+
+.nav-list .nav-list-item.active .nav-list-expander {
+    color: $yellow-200;
+}
+
+.site-nav ul li a {
+    background: none;
+    color: $nav-text !important;
+    word-wrap: break-word;
+    white-space: normal;
+    font-size: 1.05rem !important;
+      
+    &:hover {
+        background: $purple-000 !important;
+        color: $nav-text;
+    }
+  
+    &:visited {
+        color: $nav-text !important;
+    }
+      
+    &.active {
+      background: $purple-100 !important;
+      font-weight: 600;
+      color: $nav-text !important;
+    }
+}
+
+ul.nav-list .nav-list-item .nav-list-link {
+    padding: 0.25rem 1rem 0.25rem 0.5rem;
+}
+
+.site-button:hover {
+	background: #e8f2e0;
+}
+
+.main-content-wrap {
+    padding-top: 0;
+}
+
+.main-content h1:first-of-type {
+    margin-top: 0; // override just the docs top margin
+}
+
+.main-content h1 {
+    font-size: 2.8em !important;
+    font-weight: 400;
+    clear: right; // keeps border line from overlapping floating images
+}
+
+.main-content h2 {
+    color: $purple-300;
+}
+
+.main-content h2, .main-content h3, .main-content h4 {
+    margin-top: 0.5rem;
+}
+
+.main-content h4 {
+    font-size: 1.05em !important;
+}
+
+.main-content ul > li::before {
+    font-weight: 900;
+}
+
+hr {
+    background-color: $adaptation-tan;
+    clear: right; // clear floating images
+}
+
+footer {
+    font-size: 0.8rem !important;
+}
+
+.third-size {
+    width: calc(33% - 1rem);
+    margin: 0.5rem 0.5rem;
+}
+
+.float-right {
+    float: right;
+    margin: 0.5rem 0 0.5rem 1rem;
+}
+
+.clear-right {
+    clear: right;
+}
+
+.main-content {
+
+    figure {
+        padding: 0;
+        background-color: $adaptation-tan;
+        border-radius: $border-radius;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+
+        figcaption {
+            padding: 0 0.4rem 0.4rem 0.4rem;
+            font-size: 0.9rem;
+            line-height: 0.9;
+        }
+    }
+
+}
+
+blockquote, p.note, p.warning, p.important, p.idea {
+    clear: right; // callouts will appear below floating photos, like h1 and h2
+}
+
+div.language-plaintext {
+    clear: right;
+}
+
+// Print-only styles.
+@media print {
+    .side-bar,
+    .page-header,
+    .site-header {
+      display: none;
+    }
+  
+    .body {
+      font-size: 0.9rem;
+    }
+  
+    .main-content {
+      max-width: auto;
+      width: auto;
+      padding: 0;
+      margin: 0;
+      line-height: 1.2;
+    }
+  
+    .main-content-wrap {
+      padding: 0;
+      margin: 0;
+      max-width: auto;
+      width: auto;
+    }
+  
+    //.main {
+    //  margin: auto;
+    //}
+  }
+  

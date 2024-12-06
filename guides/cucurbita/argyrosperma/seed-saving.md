@@ -1,16 +1,16 @@
 ---
-parent: Growing guide
+parent: Cucurbita argyrosperma
 title: Seed saving
 layout: default
 has_children: false
-nav_order: 60
+nav_order: 80
 ---
 
 # Seed saving
 
 ## When are seeds mature?
 
-![A young C. argyrosperma cushaw fruit grows on the vine]( {{ '/assets/images/growing/immature-argyrosperma-fruit-200w.jpg' | relative_url }}){:class="float-right-third"}
+![A young C. argyrosperma cushaw fruit grows on the vine]( {{ '/assets/images/growing/immature-argyrosperma-fruit-200w.jpg' | relative_url }}){:class="float-right third-size"}
 
 Individual squash fruits are ready for seed harvesting by 60 days after the fruit is fertilized. Some cushaws continue to improve in taste and nutrition if left on the vine longer.
 

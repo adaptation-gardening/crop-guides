@@ -1,5 +1,6 @@
 ---
 parent: Recipes
+grand_parent: Cucurbita argyrosperma
 title: Cushaw Pumpkin Pie
 layout: default
 has_children: false
@@ -9,7 +10,7 @@ nav_order: 40
 # Cushaw Pumpkin Pie
 
 ![Two cushaw pumpkin pies cooling in the oven]( {{ '/assets/images/recipes/cushaw-pumpkin-pie/cushaw-pumpkin-pie-thumbnail.jpg' | relative_url }} )
-{:class="float-right-third"}
+{:class="float-right third-size"}
 
 There is a long tradition of baking desert pies from cushaw squash. In some areas, cushaws are even known as 'pie pumpkins'.
 

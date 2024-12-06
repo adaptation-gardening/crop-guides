@@ -1,12 +1,14 @@
 ---
-parent: Growing guide
-title: Planting
+parent: Cucurbita argyrosperma
+title: Site and planting
 layout: default
 has_children: false
-nav_order: 20
+nav_order: 40
 ---
 
-# Planting
+# Site and Planting
+
+## Selecting a site to plant
 
 ## Direct sowing
 

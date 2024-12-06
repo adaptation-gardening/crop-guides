@@ -1,0 +1,12 @@
+{% if include.caption %}
+<figure class="caption-image {% if include.thumbnail %} third-size float-right{%- endif -%}">
+{% endif %}
+{%- if include.alt -%}
+    <img src="{{ site.baseurl }}{{ include.url }}" alt="{{- include.alt -}}" class="content-figure-image">
+{% else %}
+    <img src="{{ site.baseurl }}{{ include.url }}" alt="WARNING: ALT TEXT NOT FOUND" class="content-figure-image">
+{%- endif -%}  
+{% if include.caption %}
+    <figcaption>{{-include.caption-}}</figcaption>
+</figure>
+{% endif %}

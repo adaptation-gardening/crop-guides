@@ -1,9 +1,9 @@
 ---
-parent: Growing guide
+parent: Cucurbita argyrosperma
 title: Thinning
 layout: default
 has_children: false
-nav_order: 30
+nav_order: 50
 ---
 
 # Thinning
@@ -18,7 +18,7 @@ In places with less consistent pressure, you might hold back a quarter or half o
 
 ## When to thin
 
-![A young C. argyrosperma cushaw fruit grows on the vine]( {{ '/assets/images/growing/immature-argyrosperma-fruit-200w.jpg' | relative_url }} ){:class="float-right-third"}
+![A young C. argyrosperma cushaw fruit grows on the vine]( {{ '/assets/images/growing/immature-argyrosperma-fruit-200w.jpg' | relative_url }} ){:class="float-right third-size"}
 
 Some gardeners may find that they have too many squash vines growing for the available space. If you are concerned about spacing, you may consider thinning your vines to a distance of between two and three feet apart.
 
