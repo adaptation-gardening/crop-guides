@@ -3,7 +3,7 @@ parent: Cucurbita argyrosperma
 title: Harvesting
 layout: default
 has_children: false
-nav_order: 50
+nav_order: 70
 ---
 
 # Harvesting

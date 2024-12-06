@@ -3,6 +3,7 @@ parent: Cucurbita argyrosperma
 title: Seed saving
 layout: default
 has_children: false
+nav_order: 80
 ---
 
 # Seed saving

@@ -3,6 +3,7 @@ parent: Cucurbita argyrosperma
 title: Location
 layout: default
 has_children: false
+nav_order: 30
 ---
 
 # Location

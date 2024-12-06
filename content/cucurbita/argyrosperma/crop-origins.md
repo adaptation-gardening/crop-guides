@@ -1,8 +1,9 @@
 ---
 parent: Cucurbita argyrosperma
-title: Crop origins - Cucurbita argyrosperma
+title: Crop origins
 layout: default
 has_children: false
+nav_order: 20
 ---
 
 # Crop origins

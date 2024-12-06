@@ -3,7 +3,7 @@ parent: Cucurbita argyrosperma
 title: Recipes
 layout: home
 has_children: true
-nav_order: 100
+nav_order: 10
 ---
 
 # Cushaw recipe collection

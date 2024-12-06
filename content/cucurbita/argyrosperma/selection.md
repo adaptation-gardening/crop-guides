@@ -3,6 +3,7 @@ parent: Cucurbita argyrosperma
 title: Selection
 layout: default
 has_children: false
+nav_order: 60
 ---
 
 # Selection

@@ -3,6 +3,7 @@ parent: Cucurbita argyrosperma
 title: Thinning
 layout: default
 has_children: false
+nav_order: 50
 ---
 
 # Thinning
