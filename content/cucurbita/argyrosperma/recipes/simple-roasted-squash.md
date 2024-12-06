@@ -1,5 +1,6 @@
 ---
-parent: Cucurbita argyrosperma recipes
+parent: Recipes
+grand_parent: Cucurbita argyrosperma
 title: Simple Roasted Squash
 layout: default
 has_children: false

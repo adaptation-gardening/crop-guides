@@ -1,6 +1,6 @@
 ---
 parent: Cucurbita argyrosperma
-title: Cucurbita argyrosperma recipes
+title: Recipes
 layout: home
 has_children: true
 nav_order: 100
