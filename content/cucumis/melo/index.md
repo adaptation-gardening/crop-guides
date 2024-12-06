@@ -1,4 +1,5 @@
 ---
+parent: Cucumis
 title: Cucumis melo
 layout: home
 nav_order: 0

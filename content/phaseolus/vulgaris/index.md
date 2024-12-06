@@ -1,7 +1,6 @@
 ---
 title: Phaseolus vulgaris
 layout: home
-nav_order: 0
 parent: Phaseolus
 ---
 

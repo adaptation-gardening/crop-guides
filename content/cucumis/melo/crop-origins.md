@@ -1,8 +1,8 @@
 ---
+parent: Cucumis melo
 title: Origins of Cucumis melo
 layout: default
 has_children: false
-parent: Cucumis melo
 ---
 
 # Crop origins
