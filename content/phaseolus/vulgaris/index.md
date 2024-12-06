@@ -1,8 +1,8 @@
 ---
-title: Phaseolus vulgaris beans
+title: Phaseolus vulgaris
 layout: home
 nav_order: 0
-parent: phaseolus
+parent: Phaseolus
 ---
 
 # Phaseolus vulgaris beans

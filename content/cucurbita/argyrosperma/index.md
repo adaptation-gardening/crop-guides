@@ -2,6 +2,7 @@
 title: Cucurbita argyrosperma
 layout: home
 nav_order: 0
+parent: Cucurbita
 ---
 
 # Cucurbita argyrosperma

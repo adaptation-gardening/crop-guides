@@ -1,8 +1,7 @@
 ---
 title: Cucurbita winter Squash
 layout: home
-nav_order: 0
-parent: cucurbita
+parent: Cucurbita
 ---
 
 # Cucurbita winter squash

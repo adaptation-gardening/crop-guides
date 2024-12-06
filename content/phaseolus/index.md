@@ -1,8 +1,6 @@
 ---
-title: Phaseolus genus
+title: Phaseolus
 layout: home
-nav_order: 0
-parent: Crop guides
 ---
 
 # Phaseolus genus

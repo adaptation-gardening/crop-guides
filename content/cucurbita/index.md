@@ -1,8 +1,6 @@
 ---
-title: Cucuribta genus
+title: Cucuribta
 layout: home
-nav_order: 0
-parent: Crop guides
 ---
 
 # Cucurbita genus

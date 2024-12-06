@@ -2,7 +2,7 @@
 title: Origins of Cucumis melo
 layout: default
 has_children: false
-nav_order: 2
+parent: Cucumis melo
 ---
 
 # Crop origins

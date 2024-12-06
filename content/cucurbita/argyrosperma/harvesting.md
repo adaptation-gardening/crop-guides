@@ -1,5 +1,5 @@
 ---
-parent: Growing guide
+parent: Cucurbita argyrosperma
 title: Harvesting
 layout: default
 has_children: false

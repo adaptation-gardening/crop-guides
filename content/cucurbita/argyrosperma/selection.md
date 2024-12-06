@@ -1,9 +1,8 @@
 ---
-parent: Growing guide
+parent: Cucurbita argyrosperma
 title: Selection
 layout: default
 has_children: false
-nav_order: 40
 ---
 
 # Selection

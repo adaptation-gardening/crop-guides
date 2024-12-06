@@ -1,8 +1,8 @@
 ---
+parent: Cucurbita winter squash
 title: Origins of Cucurbita winter squash 
 layout: default
 has_children: false
-nav_order: 2
 ---
 
 # Crop origins

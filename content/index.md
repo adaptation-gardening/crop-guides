@@ -1,5 +1,5 @@
 ---
-title: Crop guides by genus
+title: Crop guides
 layout: home
 nav_order: 0
 ---

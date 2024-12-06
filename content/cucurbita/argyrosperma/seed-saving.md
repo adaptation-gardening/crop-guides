@@ -1,9 +1,8 @@
 ---
-parent: Growing guide
+parent: Cucurbita argyrosperma
 title: Seed saving
 layout: default
 has_children: false
-nav_order: 60
 ---
 
 # Seed saving

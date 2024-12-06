@@ -1,8 +1,8 @@
 ---
+parent: Phaseolus vulgaris
 title: Origins of Phaseolus vulgaris beans
 layout: default
 has_children: false
-nav_order: 2
 ---
 
 # Crop origins

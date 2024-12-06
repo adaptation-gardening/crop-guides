@@ -1,10 +1,10 @@
 ---
-title: Cucurbita winter Squash
+title: Cucumis melo
 layout: home
 nav_order: 0
 ---
 
-# Cucurbita winter squash
+# Cucumis melo melons
 
 Placeholder
 
