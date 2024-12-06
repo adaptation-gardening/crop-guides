@@ -1,7 +1,7 @@
 ---
 title: About these guides
 layout: home
-nav_order: 0
+nav_order: 10
 ---
 
 # Adaptation Gardening Crop Guides
