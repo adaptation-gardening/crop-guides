@@ -2,6 +2,7 @@
 title: Phaseolus vulgaris beans
 layout: home
 nav_order: 0
+parent: phaseolus
 ---
 
 # Phaseolus vulgaris beans
