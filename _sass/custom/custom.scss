@@ -71,6 +71,10 @@ body {
 
 .main-content h1:first-of-type {
     margin-top: 0; // override just the docs top margin
+}
+
+h1 {
+    font-size: 1.1rem;
     font-weight: 500;
 }
 
