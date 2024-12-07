@@ -1,4 +1,5 @@
-$off-white:     #f9f7f2 ;
+$off-white:     #f9f7f2;
+$gts-tan:       #ece1cc;
 
 $nav-text:      $off-white;
 
@@ -7,9 +8,31 @@ $nav-text:      $off-white;
 }
 
 .site-header {
-    #background: $body-background-color;
+    //background: $body-background-color;
 }
 
 .site-header a:hover {
     background: unset;
 }
+
+.site-title {
+    //color: $nav-text;
+    //font-weight: 500;
+    //font-size: 1.6rem;
+    //padding-left: 0.5rem;
+    //padding-right: unset;
+    
+    &:hover {
+      //background-image: none;
+    }
+}
+
+.site-nav {
+    //padding-top: 0.5rem;
+}  
+
+hr {
+    background-color: $gts-tan;
+    clear: right; // clear floating images
+}
+
