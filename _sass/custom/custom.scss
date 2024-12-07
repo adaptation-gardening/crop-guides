@@ -42,11 +42,40 @@ body {
     //padding-top: 0.5rem;
 }
 
+ul.nav-list .nav-list-item .nav-list-link {
+    background: none;
+    color: white !important;
+    //font-weight: 100;
+    //font-size: 1.1rem;
+    //padding: 0.25rem 1rem 0.25rem 0.5rem;
+    //margin: 0.1rem 0;
+    word-wrap: break-word;
+    white-space: normal;
+      
+    &:hover {
+        background: none;
+        background-color: $nav-hover;
+        color: white;
+    }
+  
+    &:visited {
+        color: white !important;
+    }
+      
+    &.active {
+      background-image: none;
+      background-color: red
+      font-weight: 600;
+      color: white !important;
+    }
+  }
+  
+
 hr {
     background-color: $adaptation-tan;
     clear: right; // clear floating images
 }
 
-.site-footer {
+site-footer {
     font-size: 0.8rem;
 }
