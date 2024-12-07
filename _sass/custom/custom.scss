@@ -45,8 +45,7 @@ body {
 .site-nav ul li a {
     background: none;
     color: white !important;
-    //font-weight: 100;
-    //font-size: 1.1rem;
+    font-size: 1.1rem;
     //padding: 0.25rem 1rem 0.25rem 0.5rem;
     //margin: 0.1rem 0;
     word-wrap: break-word;
@@ -69,7 +68,10 @@ body {
       color: white !important;
     }
   }
-  
+
+.main-content h1:first-of-type {
+    margin-top: 0; // override just the docs top margin
+}
 
 hr {
     background-color: $adaptation-tan;
