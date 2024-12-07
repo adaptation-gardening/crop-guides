@@ -8,16 +8,12 @@ repository: markwkidd/crop-guides # for github-metadata
 
 permalink: pretty
 
-aux_links:
-  Adaptation Gardening Facebook Group: https://www.facebook.com/groups/adaptationagriculture
-  Going to Seed Courses and Community: https://goingtoseed.org/
-
 search_enabled: true
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "assets/images/commonwealth-cushaw-logo-white-550x180.png"
 
-footer_content: "Copyright &copy; Going to Seed and Handbarrow. Published with a <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0 License.</a>"
+footer_content: "Copyright &copy; Going to Seed. Published with a <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0 License.</a>"
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
