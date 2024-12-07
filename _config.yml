@@ -21,8 +21,6 @@ logo: "assets/images/gts-logo-500x280.png"
 
 favicon_ico: "/assets/images/favicon.ico"
 
-footer_content: "Copyright &copy; Going to Seed. Published with a <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0 License.</a>"
-
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
