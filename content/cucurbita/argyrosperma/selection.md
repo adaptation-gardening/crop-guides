@@ -39,7 +39,7 @@ One option is to tie strips of bright cloth or bright-colored survey flagging ta
 
 ## Squash genetics and pollination
 
-{% include caption-image.html url="/assets/images/growing/argyrosperma-male-flower-jl.jpg" alt="A young C. argyrosperma cushaw fruit grows on the vine" caption="This male flower of C. argyrosperma could be collected for manual pollination." %}
+{% include caption_image.html url="/assets/images/growing/argyrosperma-male-flower-jl.jpg" alt="A young C. argyrosperma cushaw fruit grows on the vine" caption="This male flower of C. argyrosperma could be collected for manual pollination." %}
 {:class="float-right-third"}
 
 If you have two or more plants which demonstrate exceptional characteristics, you might consider manually cross pollinating them.

@@ -16,7 +16,7 @@ For a large winter squash fruit, a cook might store the fruit for a few months w
 {: .note }
 Squash can be frozen either as clean raw fruit or as cooked puree.
 
-{% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/finished-cushaw-puree-thumbnail.jpg" alt="Mashing roasted cushaw flesh" caption="A potato masher used to bring the roasted cushaw to puree consistency." %}
+{% include caption_image.html url="/assets/images/recipes/roasted-cushaw-puree/finished-cushaw-puree-thumbnail.jpg" alt="Mashing roasted cushaw flesh" caption="A potato masher used to bring the roasted cushaw to puree consistency." %}
 {:class="float-right-third"}
 
 
@@ -28,7 +28,7 @@ Squash can be frozen either as clean raw fruit or as cooked puree.
 
 ## Equipment and supplies
 
-{% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg" alt="Cushaw cut into relatively flat pieces" caption="For some squash there may not be much flesh around the seeds. This fruit has an ample amount making it worth processing." %}
+{% include caption_image.html url="/assets/images/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg" alt="Cushaw cut into relatively flat pieces" caption="For some squash there may not be much flesh around the seeds. This fruit has an ample amount making it worth processing." %}
 {:class="float-right-third"}
 
 - Oven
@@ -61,26 +61,26 @@ Because the rind of a hard shell squash fruit does not soften with roasting, be 
 
 ## Image gallery
 
-{% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/cut-cushaw-neck-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" %}
+{% include caption_image.html url="/assets/images/recipes/roasted-cushaw-puree/cut-cushaw-neck-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" %}
 {:class="float-right-third"}
 
-{% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" %}
+{% include caption_image.html url="/assets/images/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" %}
 {:class="float-right-third"}
 
-{% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/cutting-hardshell-cushaw-thumbnail.jpg" alt="Squash with hard shells are difficult to cut" caption="Cutting the flesh of a hardshell fruit starting from the inside allows the cook to use their hands to split the pieces if the knife doesn't completely separate the rind" %}
+{% include caption_image.html url="/assets/images/recipes/roasted-cushaw-puree/cutting-hardshell-cushaw-thumbnail.jpg" alt="Squash with hard shells are difficult to cut" caption="Cutting the flesh of a hardshell fruit starting from the inside allows the cook to use their hands to split the pieces if the knife doesn't completely separate the rind" %}
 {:class="float-right-third"}
 
-{% include caption-image.html url="/assets/images/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colander" caption="If the fruit is of good quality, consider [saving the seeds](https://goingtoseed.org/pages/processing-squash-seeds)." %}
+{% include caption_image.html url="/assets/images/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colander" caption="If the fruit is of good quality, consider [saving the seeds](https://goingtoseed.org/pages/processing-squash-seeds)." %}
 {:class="float-right-third"}
 
-{% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/pre-roasting-cushaw-tray-thumbnail.jpg" alt="Pieces of cut squash, coated in oil and salt, laid with the inside down on aluminum foil or parchment paper" caption="Place the fruit pieces with the inside down on paper or aluminum foil plus a light coating of oil and salt" %}
+{% include caption_image.html url="/assets/images/recipes/roasted-cushaw-puree/pre-roasting-cushaw-tray-thumbnail.jpg" alt="Pieces of cut squash, coated in oil and salt, laid with the inside down on aluminum foil or parchment paper" caption="Place the fruit pieces with the inside down on paper or aluminum foil plus a light coating of oil and salt" %}
 {:class="float-right-third"}
 
-{% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/roasted-cushaw-tray-thumbnail.jpg" alt="Roasted cushaw pieces after approximately an hour roasting in the oven." caption="These cushaw pieces are finished roasting." %}
+{% include caption_image.html url="/assets/images/recipes/roasted-cushaw-puree/roasted-cushaw-tray-thumbnail.jpg" alt="Roasted cushaw pieces after approximately an hour roasting in the oven." caption="These cushaw pieces are finished roasting." %}
 {:class="float-right-third"}
 
-{% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/scooping-cushaw-puree-thumbnail.jpg" alt="Scooping roasted cushaw into bowl" caption="A large spoon, or in this case an ice cream scoop, can be used to separate the cooked flesh." %}
+{% include caption_image.html url="/assets/images/recipes/roasted-cushaw-puree/scooping-cushaw-puree-thumbnail.jpg" alt="Scooping roasted cushaw into bowl" caption="A large spoon, or in this case an ice cream scoop, can be used to separate the cooked flesh." %}
 {:class="float-right-third"}
 
-{% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/cushaw-puree-in-freezer-bag-thumbnail.jpg" alt="Finished cushaw puree in a labelled freezer bag" caption="Surplus puree can be frozen for later use." %}
+{% include caption_image.html url="/assets/images/recipes/roasted-cushaw-puree/cushaw-puree-in-freezer-bag-thumbnail.jpg" alt="Finished cushaw puree in a labelled freezer bag" caption="Surplus puree can be frozen for later use." %}
 {:class="float-right-third"}
