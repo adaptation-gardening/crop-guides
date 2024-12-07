@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://adaptation-gardening.github.io
 #baseurl: cushaw-handbook # needed when the pages are served from a subfolder, like on github.io
-repository: markwkidd/crop-guides # for github-metadata
+repository: adaptation-gardening/crop-guides # for github-metadata
 
 permalink: pretty
 
@@ -17,9 +17,9 @@ nav_external_links:
 search_enabled: true
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "assets/images/gts-logo-500x280.png"
+logo: "assets/images/gts-logo-500x280.png"
 
-favicon_ico: "/assets/images/favicon.ico"
+favicon_ico: "assets/images/favicon.ico"
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
