@@ -17,7 +17,7 @@ nav_external_links:
 search_enabled: true
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "assets/images/gts-logo-500x280.png"
+logo: "assets/images/crop-guide-logo-500x280.png"
 
 favicon_ico: "assets/images/favicon.ico"
 
