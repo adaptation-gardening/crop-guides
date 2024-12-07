@@ -1,4 +1,6 @@
 $adaptation-tan:    #ece1cc;
+$adaptation-green:  #92a584;
+
 $nav-text:          $adaptation-tan;
 
 body {
@@ -34,7 +36,22 @@ body {
 
 .site-nav {
     //padding-top: 0.5rem;
-}  
+}
+
+.search-input {
+    background-color: $adaptation-green;
+    border: 1px solid $adaptation-tan;
+    color: #001205;
+    
+    &::placeholder {
+      color: rgba(33, 52, 53, 0.7);
+    }
+    
+    &:focus {
+      background: unset;
+      border-color: unset;
+    }
+  }
 
 hr {
     background-color: $adaptation-tan;
