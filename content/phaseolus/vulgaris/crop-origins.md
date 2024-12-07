@@ -1,6 +1,6 @@
 ---
 parent: Phaseolus vulgaris
-title: Origins of Phaseolus vulgaris beans
+title: Origins of Phaseolus vulgaris
 layout: default
 has_children: false
 ---
