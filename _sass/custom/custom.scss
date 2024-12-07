@@ -1,3 +1,10 @@
+$off-white:     #f9f7f2 ;
+
+$nav-text:      $off-white;
+
+.side-bar {
+    color: $nav-text;
+}
 
 .site-header {
     #background: $body-background-color;
