@@ -22,6 +22,10 @@ body {
     }
 }
 
+#main-header {
+    border-bottom: 1px solid $adaptation-tan;
+}
+
 .site-title {
     color: white;
     //font-weight: 500;
@@ -37,21 +41,6 @@ body {
 .site-nav {
     //padding-top: 0.5rem;
 }
-
-.search-input {
-    background-color: $adaptation-green;
-    border: 1px solid $adaptation-tan;
-    color: #001205;
-    
-    &::placeholder {
-      color: rgba(33, 52, 53, 0.7);
-    }
-    
-    &:focus {
-      background: unset;
-      border-color: unset;
-    }
-  }
 
 hr {
     background-color: $adaptation-tan;
