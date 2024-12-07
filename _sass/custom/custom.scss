@@ -1,16 +1,19 @@
 $adaptation-tan:    #ece1cc;
 $nav-text:          $adaptation-tan;
 
+body {
+    font-size: 1.1rem;
+}
+
 .side-bar {
     color: $nav-text;
 }
 
 .site-header {
-    //background: $body-background-color;
-}
 
-.site-header a:hover {
-    background: unset;
+    a:hover {
+        background: unset;
+    }
 }
 
 .site-title {
