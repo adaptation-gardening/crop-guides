@@ -52,7 +52,7 @@ body {
     white-space: normal;
       
     &:hover {
-        background: none;
+        background: none !important;
         background-color: red;
         color: white;
     }
@@ -62,7 +62,7 @@ body {
     }
       
     &.active {
-      background-image: none;
+      background: none !important;
       background-color: red;
       font-weight: 600;
       color: white !important;
