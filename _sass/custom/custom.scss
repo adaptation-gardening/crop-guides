@@ -15,7 +15,7 @@ body {
     margin-top: 0;
     border: none;
     font-size: 1.1rem;
-    min-height: 110px;
+    //min-height: 110px;
 
     a:hover {
         background: unset;
@@ -37,7 +37,7 @@ div.site-logo {
 }
 
 .site-nav {
-    padding-top: 0.5rem;
+    padding-top: 1rem;
 }
 
 .nav-list .nav-list-item .nav-list-link {
