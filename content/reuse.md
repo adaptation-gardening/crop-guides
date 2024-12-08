@@ -1,5 +1,6 @@
 ---
 title: Using this material
+layout: default
 nav_order: 100
 ---
 
