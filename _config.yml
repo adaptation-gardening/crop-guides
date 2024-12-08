@@ -3,7 +3,7 @@ description: An open repository of crop information from seed to plate
 theme: just-the-docs
 
 url: https://adaptation-gardening.github.io
-#baseurl: cushaw-handbook # needed when the pages are served from a subfolder, like on github.io
+baseurl: crop-guide # needed when the pages are served from a subfolder, like on github.io
 repository: adaptation-gardening/crop-guides # for github-metadata
 
 permalink: pretty
