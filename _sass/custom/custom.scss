@@ -31,11 +31,11 @@ html {
     padding-top: 1rem;
 }
 .nav-list .nav-list-item .nav-list-expander {
-    color: yellow;
+    color: $adaptation-tan;
 }
 
-.nav-list .nav-list-item.active > .nav-list-expander {
-    color: green;
+.nav-list .nav-list-item.active .nav-list-expander {
+    color: $adaptation-yellow;
 }
 
 li.nav-list-item {
