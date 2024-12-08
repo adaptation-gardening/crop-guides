@@ -13,7 +13,7 @@ body {
 
 .site-header {
     margin-top: 0;
-    border-bottom: 1px solid $adaptation-tan;
+    border: none;
     font-size: 1.1rem;
     min-height: 110px;
 
@@ -22,20 +22,17 @@ body {
     }
 }
 
+div.site-logo {
+    padding-bottom: 0.5rem;
+    border-bottom: 1px double $adaptation-tan;
+}
+
 #main-header {
     border-bottom: 1px solid $adaptation-tan;
 }
 
 .site-title {
     color: white;
-    //font-weight: 500;
-    //font-size: 1.6rem;
-    //padding-left: 0.5rem;
-    //padding-right: unset;
-    
-    &:hover {
-      //background-image: none;
-    }
 }
 
 .site-nav {
