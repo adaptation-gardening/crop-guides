@@ -54,7 +54,7 @@ div.site-logo {
     white-space: normal;
       
     &:hover {
-        background: slateblue !important;
+        background: $blue-200 !important;
         color: $nav-text;
 
     }
@@ -64,7 +64,7 @@ div.site-logo {
     }
       
     &.active {
-      background: mediumblue !important;
+      background: $blue-300 !important;
       font-weight: 600;
       color: $nav-text !important;
     }
