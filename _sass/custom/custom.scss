@@ -15,6 +15,7 @@ body {
     margin-top: 0;
     border: none;
     font-size: 1.1rem;
+    height: 100%;
     //min-height: 110px;
 
     a:hover {
@@ -54,7 +55,7 @@ div.site-logo {
     white-space: normal;
       
     &:hover {
-        background: $blue-200 !important;
+        background: darken($adaptation-blue, 25) !important;
         color: $nav-text;
 
     }
@@ -64,7 +65,7 @@ div.site-logo {
     }
       
     &.active {
-      background: $blue-300 !important;
+      background: darken($adaptation-blue, 15) !important;
       font-weight: 600;
       color: $nav-text !important;
     }
