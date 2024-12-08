@@ -121,4 +121,36 @@ figure.captioned-image {
 blockquote, p.note, p.warning, p.important, p.idea {
     clear: right; // callouts will appear below floating photos, like h1 and h2
 }
+
+// Print-only styles.
+@media print {
+    //.side-bar,
+    //.page-header,
+    //.site-header {
+    //  display: none;
+    //}
+  
+    .body {
+      font-size: 0.9rem;
+    }
+  
+    .main-content {
+      max-width: auto;
+      width: auto;
+      padding: 0;
+      margin: 0;
+      line-height: 1.2;
+    }
+  
+    .main-content-wrap {
+      padding: 0;
+      margin: 0;
+      max-width: auto;
+      width: auto;
+    }
+  
+    //.side-bar + .main {
+    //  margin: auto;
+    //}
+  }
   
