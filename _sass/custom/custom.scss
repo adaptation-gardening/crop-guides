@@ -1,8 +1,3 @@
-$adaptation-tan:    #ece1cc;
-$adaptation-green:  #92a584;
-
-$nav-text:          $adaptation-tan;
-
 body {
     font-size: 1.1rem;
 }
@@ -23,7 +18,6 @@ body {
 }
 
 div.site-logo {
-    padding-bottom: 0.5rem;
     border-bottom: 1px double $adaptation-tan;
 }
 
@@ -32,7 +26,7 @@ div.site-logo {
 }
 
 .site-title {
-    color: white;
+    color: $nav-text;
     padding: 0;
     margin: 0;
 }
@@ -47,7 +41,7 @@ div.site-logo {
 
 .site-nav ul li a {
     background: none;
-    color: white !important;
+    color: $nav-text !important;
     font-size: 1.1rem;
     padding: 0.25rem 1rem 0.25rem 0.5rem;
     margin: 0.1rem 0;
@@ -55,18 +49,19 @@ div.site-logo {
     white-space: normal;
       
     &:hover {
-        background: none !important;
-        color: white;
+        background: slateblue !important;
+        color: $nav-text;
+
     }
   
     &:visited {
-        color: white !important;
+        color: $nav-text !important;
     }
       
     &.active {
-      background: none !important;
+      background: mediumblue !important;
       font-weight: 600;
-      color: white !important;
+      color: $nav-text !important;
     }
   }
 
