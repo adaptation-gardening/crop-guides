@@ -12,3 +12,11 @@ nav_order: 0
 The guide is intended to help people grow and use tasty, nutritious cushaw squash. The information here about cultivation, recipes, and seed saving have been developed by people growing C. argyrosperma winter squash that can be stored fresh for at least six months, but this information can be applied to other types.
 
 We welcome contributions to make this guide more useful to people growing the full spectrum of C. argyrosperma squash.
+
+**This is in bold.**
+
+- This is an item on an unordered bullet list
+- This is an item on an unordered bullet list
+
+1. This is an item on an ordered list
+2. This is an item on an unordered list
