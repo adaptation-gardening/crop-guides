@@ -20,7 +20,7 @@ When linking from one page to another inside the crop guides, a combination of J
 #### Source
 {% raw %}
 ```
-* [Link to a crop guide document several layers into the tree]({% link guides/cucurbita/argyrosperma/index.md %})
+* [Link to a crop guide document several layers into the tree]({% link /guides/cucurbita/argyrosperma/index.md %})
 * [Link to the README document in the root level of the tree]({% link README.md %})
 ```
 {% endraw %}
