@@ -14,6 +14,12 @@ The guide is intended to help people grow and use tasty, nutritious cushaw squas
 
 We welcome contributions to make this guide more useful to people growing the full spectrum of C. argyrosperma squash.
 
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
 **This is in bold.**
 
 - This is an item on an unordered bullet list
