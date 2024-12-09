@@ -14,7 +14,7 @@ The content of the guides is written in a relatively simple text syntax called M
 When linking from one page to another inside the crop guides, a combination of Jekyll and Markdown syntax can be used.
 
 ### Example: Internal Links
-* [Link to a crop guide document several layers into the tree]({% link guides/cucurbita/argyrosperma/index.md %})
+* [Link to a crop guide document several layers into the tree]({% link /guides/cucurbita/argyrosperma/index.md %})
 * [Link to the README document in the root level of the tree]({% link README.md %})
 
 #### Source
