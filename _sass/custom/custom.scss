@@ -137,8 +137,6 @@ footer {
     figure {
         padding: 0;
         background-color: $adaptation-tan;
-        border-radius: $border-radius;
-        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
 
         figcaption {
             padding: 0 0.4rem 0.4rem 0.4rem;
@@ -150,7 +148,9 @@ footer {
 }
 
 blockquote, p.note, p.warning, p.important, p.idea {
-    clear: right; // callouts will appear below floating photos, like h1 and h2
+    clear: right;           // callouts will appear below floating photos, like h1 and h2
+    border-radius: unset;   // match goingtoseed.org
+    box-shadow: unset;      // match goingtoseed.org
 }
 
 div.language-plaintext {
