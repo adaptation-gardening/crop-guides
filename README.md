@@ -28,7 +28,7 @@ The path to the post, page, or collection is defined as the path relative to the
 
 ## Images
 
-Images should be stored in `/assets/images`, within a subfolder that corresponds to the subfolder name of the 'primary' page that uses the image. An image related to a Cucurbita argyrsperma "Pumpkin Pie" recipe should be stored at a path like `/assets/images/cucurbita/argyrosperma/recipes/cushaw-pumpkin-pie`.
+Images should be stored in `assets/images`, within a subfolder that corresponds to the subfolder name of the 'primary' page that uses the image. An image related to a Cucurbita argyrsperma "Pumpkin Pie" recipe should be stored at a path like `assets/images/cucurbita/argyrosperma/recipes/cushaw-pumpkin-pie`.
 
 ### Using the `embed_image` template
 Images can be embedded using standard Markdown syntax, but this offers limited formatting options and does not provide a convenient method to caption images. A Jekyll template called `embed_image.html` offers the ability to embed an image with more flexibility than Markdown.
