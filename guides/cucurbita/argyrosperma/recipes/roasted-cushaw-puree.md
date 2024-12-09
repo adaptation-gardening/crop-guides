@@ -17,7 +17,7 @@ For a large winter squash fruit, a cook might store the fruit for a few months w
 Squash can be frozen either as clean raw fruit or as cooked puree.
 
 ## Ingredients
-{% include embed_image.html url="/assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" thumbnail="true" %}
+{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" thumbnail="true" %}
 
 - 1 or more squash fruit
 - Vegetable oil
