@@ -7,6 +7,14 @@ layout: default
 
 The content of the guides is stored as [a GitHub repository](https://github.com/adaptation-gardening/crop-guides/). Contributions can be made directly in the form of Issues and Pull Requests. You may also post in the [Going to Seed Community Forum](https://goingtoseed.discourse.group/).
 
+## Style Guide 
+
+- Text should be written in a way that makes sense and is useful with or without the images.
+- Most images in the crop guides will appear in an image gallery that can be added at the bottom of the associated web page.
+- The desired voice and tone for the crop guides is casual, impersonal, and non-academic
+- Links to further reading are welcome.
+
+
 ## Markdown formatting
 The content of the guides is written in a relatively simple text syntax called Markdown. Link: [Guide to Markdown syntax](https://www.markdownguide.org/basic-syntax/).
 
