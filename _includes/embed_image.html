@@ -1,12 +1,8 @@
 {% if include.caption %}
 <figure class="caption-image {% if include.thumbnail == "true" %} third-size float-right{%- endif -%}">
 {%- endif -%}
-{%- if include.alt -%}
-    <img src="{{ site.baseurl }}/{{ include.url }}" alt="{{- include.alt -}}" class="content-figure-image {% if include.thumbnail == "true" %} third-size float-right{%- endif -%}">
-{% else %}
-    <img src="{{ site.baseurl }}/{{ include.url }}" alt="WARNING: ALT TEXT NOT FOUND" class="content-figure-image {% if include.thumbnail == "true" %} third-size float-right{%- endif -%}">
-{%- endif -%}  
+    <img src="{{ site.baseurl }}/{{ include.url }}" alt="{%- if include.alt -%}{{- include.alt -}}{%- else -%}WARNING: ALT TEXT NOT FOUND{%- endif -%}" class="content-figure-image {% if include.thumbnail == "true" %} third-size float-right{%- endif -%}">
 {% if include.caption %}
     <figcaption>{{-include.caption-}}</figcaption>
 </figure>
-{% endif %}
+{%- endif -%}
