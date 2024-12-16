@@ -19,7 +19,7 @@ In places with less consistent pressure, you might hold back a quarter or half o
 ## When to thin
 
 {% include embed_image.html
-    url="assets/images/growing/immature-argyrosperma-fruit-200w.jpg"
+    url="assets/images/cucurbita/argyrosperma/growing/immature-argyrosperma-fruit-200w.jpg"
     alt="A young C. argyrosperma cushaw fruit grows on the vine"
     thumbnail="true"
 %}
