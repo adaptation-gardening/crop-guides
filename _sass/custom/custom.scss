@@ -113,6 +113,21 @@ ul.nav-list .nav-list-item .nav-list-link {
     font-weight: 900;
 }
 
+.main-content {
+
+    figure {
+        padding: 0;
+        background-color: $adaptation-tan;
+
+        figcaption {
+            padding: 0 0.4rem 0.4rem 0.4rem;
+            font-size: 0.9rem;
+            line-height: 0.9;
+        }
+    }
+
+}
+
 hr {
     background-color: $adaptation-tan;
     clear: right; // clear floating images
@@ -136,20 +151,6 @@ footer {
     clear: right;
 }
 
-.main-content {
-
-    figure {
-        padding: 0;
-        background-color: $adaptation-tan;
-
-        figcaption {
-            padding: 0 0.4rem 0.4rem 0.4rem;
-            font-size: 0.9rem;
-            line-height: 0.9;
-        }
-    }
-
-}
 
 blockquote, p.note, p.warning, p.important, p.idea {
     clear: right;           // callouts will appear below floating photos, like h1 and h2
