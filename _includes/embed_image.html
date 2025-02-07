@@ -1,7 +1,13 @@
 {% if include.caption %}
 <figure class="caption-image {% if include.thumbnail == "true" %} third-size float-right{%- endif -%}">
 {%- endif -%}
-    <img src="{{ site.baseurl }}/{{ include.url }}" alt="{%- if include.alt -%}{{- include.alt -}}{%- else -%}WARNING: ALT TEXT NOT FOUND{%- endif -%}" class="content-figure-image {% if include.thumbnail == "true" and include.caption == null %} third-size float-right{%- endif -%}" style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}">
+{%- if include.link -%}
+    <a href="{{- include.link -}}">
+{%- endif -%}
+        <img src="{{ site.baseurl }}/{{ include.url }}" alt="{%- if include.alt -%}{{- include.alt -}}{%- else -%}WARNING: ALT TEXT NOT FOUND{%- endif -%}" class="content-figure-image {% if include.thumbnail == "true" and include.caption == null %} third-size float-right{%- endif -%}" style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}">
+{%- if include.link -%}
+    </a>
+{%- endif -%}
 {% if include.caption %}
     <figcaption>{{-include.caption-}}</figcaption>
 </figure>

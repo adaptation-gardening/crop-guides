@@ -10,6 +10,7 @@ nav_order: 10
     url="assets/images/gts-logo-416x214.png"
     width="300px"
     alt="Going to Seed Logo"
+    link="https://goingtoseed.org/"
 %}
 
 **This is a project of Going to Seed.**
