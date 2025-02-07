@@ -6,7 +6,26 @@ nav_order: 10
 
 # Adaptation Gardening Crop Guides
 
-PLACEHOLDER
+{% include embed_image.html
+    url="assets/images/gts-logo-416x214.png"
+    alt="Going to Seed Logo"
+%}
+
+**This booklet is made in partnership with Going to Seed.**
+
+{% include embed_image.html
+    url="gts-landing-splash-1000x490.png"
+    alt="Inspiring a shift in agriculture towards adaptation, community, and diversity"
+%}
+
+_Visit **[GoingToSeed.org](https://goingtoseed.org/)** for:_
+
+- Diverse Seeds
+- Self paced courses on adaptive gardening
+- Online community
+- Newsletter and program updates
+
+Find us on Youtube, Facebook and Instagram
 
 ## Using and reusing this material
 
