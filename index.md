@@ -9,7 +9,6 @@ nav_order: 10
 {% include embed_image.html
     url="assets/images/gts-logo-416x214.png"
     width="300px"
-    height="300px"
     alt="Going to Seed Logo"
 %}
 
@@ -17,6 +16,7 @@ nav_order: 10
 
 {% include embed_image.html
     url="assets/images/gts-landing-splash-1000x490.png"
+    width="75%"
     alt="Inspiring a shift in agriculture towards adaptation, community, and diversity"
 %}
 
