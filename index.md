@@ -12,7 +12,7 @@ nav_order: 10
     alt="Going to Seed Logo"
 %}
 
-**This booklet is made in partnership with Going to Seed.**
+**This is a project of Going to Seed.**
 
 {% include embed_image.html
     url="assets/images/gts-landing-splash-1000x490.png"
