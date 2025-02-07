@@ -3,9 +3,14 @@
 {%- endif -%}
 {%- if include.link -%}
     <a href="{{- include.link -}}">
+{%- elseif include.thumbnail == "true" -%}
+    <a href="{{ site.baseurl }}/{{ include.url }}">
 {%- endif -%}
         <img src="{{ site.baseurl }}/{{ include.url }}" alt="{%- if include.alt -%}{{- include.alt -}}{%- else -%}WARNING: ALT TEXT NOT FOUND{%- endif -%}" class="content-figure-image {% if include.thumbnail == "true" and include.caption == null %} third-size float-right{%- endif -%}" style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}">
 {%- if include.link -%}
+    </a>
+{%- endif -%}
+{%- if include.thumbnail == "true" -%}
     </a>
 {%- endif -%}
 {% if include.caption %}
