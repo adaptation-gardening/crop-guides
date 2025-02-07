@@ -9,13 +9,14 @@ nav_order: 10
 {% include embed_image.html
     url="assets/images/gts-logo-416x214.png"
     width="300px"
+    height="300px"
     alt="Going to Seed Logo"
 %}
 
 **This booklet is made in partnership with Going to Seed.**
 
 {% include embed_image.html
-    url="assets/gts-landing-splash-1000x490.png"
+    url="assets/images/gts-landing-splash-1000x490.png"
     alt="Inspiring a shift in agriculture towards adaptation, community, and diversity"
 %}
 
