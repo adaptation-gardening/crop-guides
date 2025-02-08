@@ -95,10 +95,11 @@ ul.nav-list .nav-list-item .nav-list-link {
     font-size: 2.8em !important;
     font-weight: 400;
     clear: right; // keeps border line from overlapping floating images
+    color: $adaptation-purple;
 }
 
 .main-content h2 {
-    color: $purple-300;
+    color: $adaptation-purple;
 }
 
 .main-content h2, .main-content h3, .main-content h4 {
@@ -151,7 +152,6 @@ footer {
     clear: right;
 }
 
-
 blockquote, p.note, p.warning, p.important, p.idea {
     clear: right;           // callouts will appear below floating photos, like h1 and h2
     border-radius: unset;   // match goingtoseed.org
@@ -192,5 +192,5 @@ div.language-plaintext {
     //.main {
     //  margin: auto;
     //}
-  }
+}
   
