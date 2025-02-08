@@ -8,7 +8,7 @@ nav_order: 10
 
 {% include embed_image.html
     url="assets/images/gts-logo-416x214.png"
-    width="14rem"
+    width="12rem"
     alt="Going to Seed Logo"
     link="https://goingtoseed.org/"
 %}
@@ -27,8 +27,6 @@ _Visit **[GoingToSeed.org](https://goingtoseed.org/)** for:_
 - Self paced courses on adaptive gardening
 - Online community
 - Newsletter and program updates
-
-Find us on Youtube, Facebook and Instagram
 
 ## Using and reusing this material
 
