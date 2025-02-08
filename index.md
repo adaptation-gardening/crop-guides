@@ -8,7 +8,7 @@ nav_order: 10
 
 {% include embed_image.html
     url="assets/images/gts-logo-416x214.png"
-    width="260px"
+    width="50%"
     alt="Going to Seed Logo"
     link="https://goingtoseed.org/"
 %}
