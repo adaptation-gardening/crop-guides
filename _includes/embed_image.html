@@ -14,7 +14,7 @@
 
 {%- if include.link -%}
     {%- assign img-link = include.link -%}
-{%- elseif include.thumbnail == "true" -%}
+{%- elsif include.thumbnail == "true" -%}
     {%- capture img-link -%}{{ site.baseurl }}/{{ include.url }}{%- endcapture -%}
 {%- endif -%}
 {% comment %}
