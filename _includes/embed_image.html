@@ -24,7 +24,7 @@
 {% endcomment %}
 
 {% if include.caption %}
-<figure class="caption-image {% if include.thumbnail == "true" %} thumbnail{%- endif -%}">
+<figure class="image-figure {% if include.thumbnail == "true" %} thumbnail{%- endif -%}">
 {%- endif -%}
 {%- if img-link -%}
     <a href="{{- img-link -}}">
@@ -32,7 +32,7 @@
         <img
             src="{{ site.baseurl }}/{{ include.url }}"
             alt="{%- if include.alt -%}{{- include.alt -}}{%- else -%}WARNING: ALT TEXT NOT FOUND{%- endif -%}"
-            class="content-figure-image{% if include.thumbnail == "true" and include.caption == null %} thumbnail{%- endif -%}"
+            class="content-image-figure"
             {%- if img-style == true %}
                 style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}"
             {% endif -%}
@@ -41,6 +41,6 @@
     </a>
 {%- endif -%}
 {% if include.caption %}
-    <figcaption>{{-include.caption-}}</figcaption>
+    <figcaption class="image-caption">{{-include.caption-}}</figcaption>
 </figure>
 {%- endif -%}
