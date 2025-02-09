@@ -12,7 +12,7 @@
             class="content-figure-image {% if include.thumbnail == "true" and include.caption == null %} third-size float-right{%- endif -%}"
             {%- if include.width or include.height -%}
                 style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}"
-            {% endif %}
+            {%- endif -%}
         >
 {%- if include.link or include.thumbnail == "true" -%}
     </a>
