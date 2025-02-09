@@ -1,6 +1,9 @@
+{%- assign img-style = false -%}
+
 {%- if include.width or include.height -%}
     {%- assign img-style = true -%}
 {%- endif -%}
+
 {% if include.caption %}
 <figure class="caption-image {% if include.thumbnail == "true" %} thumbnail{%- endif -%}">
 {%- endif -%}
@@ -17,7 +20,7 @@
                 style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}"
             {% endif -%}
         >
-{%- if include.link or include.thumbnail == "true" -%}
+{%- if include.link or include.thumbnail -%}
     </a>
 {%- endif -%}
 {% if include.caption %}
