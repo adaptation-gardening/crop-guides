@@ -10,7 +10,7 @@ nav_order: 20
 # Simple Roasted Squash
 
 ![Drying seeds in a colander just removed from cushaw fruit]( {{ '/assets/images/recipes/cut-fruit-with-seeds-350w.jpg' | relative_url }} )
-{:class="float-right third-size"}
+{:class="thumbnail"}
 
 Placeholder: This is the section to introduce the recipe, share any interesting history, etc.
 

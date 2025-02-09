@@ -12,7 +12,7 @@ This section explores ways to identify exceptional plants among the population (
 
 ## What is Selection?
 
-![A young C. argyrosperma cushaw fruit grows on the vine]( {{ '/assets/images/growing/immature-argyrosperma-fruit-200w.jpg' | relative_url }} ){:class="float-right third-size"}
+![A young C. argyrosperma cushaw fruit grows on the vine]( {{ '/assets/images/growing/immature-argyrosperma-fruit-200w.jpg' | relative_url }} ){:class="thumbnail"}
 
 In this guide, "selection" refers to actions taken by the gardener to choose which plants should be prioritized, which might be manually "crossed" together in the pursuit of a hybrid, and which plants should be culled or eliminated.
 
@@ -40,7 +40,7 @@ One option is to tie strips of bright cloth or bright-colored survey flagging ta
 ## Squash genetics and pollination
 
 {% include embed_image.html url="/assets/images/growing/argyrosperma-male-flower-jl.jpg" alt="A young C. argyrosperma cushaw fruit grows on the vine" caption="This male flower of C. argyrosperma could be collected for manual pollination." %}
-{:class="float-right third-size"}
+{:class="thumbnail"}
 
 If you have two or more plants which demonstrate exceptional characteristics, you might consider manually cross pollinating them.
 

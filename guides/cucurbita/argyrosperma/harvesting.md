@@ -8,7 +8,7 @@ nav_order: 70
 
 # Harvesting
 
-![A young C. argyrosperma cushaw fruit grows on the vine](../../assets/images/growing/immature-argyrosperma-fruit-200w.jpg "Sprawling young cushaw vine"){:class="float-right third-size"}
+![A young C. argyrosperma cushaw fruit grows on the vine](../../assets/images/growing/immature-argyrosperma-fruit-200w.jpg "Sprawling young cushaw vine"){:class="thumbnail"}
 
 When night temperatures drop below 50 degrees Fahrenheit, cushaw vines may stop producing flowers.
 

@@ -8,7 +8,7 @@ nav_order: 20
 
 # Crop origins
 
-![Drying seeds in a colendar just removed from cushaw fruit](../assets/images/recipes/cut-fruit-with-seeds-350w.jpg "Seed saving and sharing is integrated into the guide"){:class="float-right third-size"}
+![Drying seeds in a colendar just removed from cushaw fruit](../assets/images/recipes/cut-fruit-with-seeds-350w.jpg "Seed saving and sharing is integrated into the guide"){:class="thumbnail"}
 
 Like the other Cucurbita squash, all cushaws are native to the Americas.
 
