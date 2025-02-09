@@ -1,16 +1,33 @@
+{% comment %}
+    TRUE VERSUS "TRUE"
+    Some attributes can be set by passing the string "true" into this template.
+    For example, the thumbnail attribute. That is why some comparisons use the
+    language builtin true and others compare to the string "true".
+{% endcomment %}
+
 {%- assign img-style = false -%}
+{%- assign img-link = false -%}
 
 {%- if include.width or include.height -%}
     {%- assign img-style = true -%}
 {%- endif -%}
 
+{%- if include.link -%}
+    {%- assign img-link = include.link -%}
+{%- elseif include.thumbnail == "true" -%}
+    {%- capture img-link -%}{{ site.baseurl }}/{{ include.url }}{%- endcapture -%}
+{%- endif -%}
+{% comment %}
+    If the link parameter is used, the URL will be set to its contents. If the
+    thumbnail parameter has been used, the URL will automatically be set to the original
+    image. Otherwise, no link will be generated for the image.
+{% endcomment %}
+
 {% if include.caption %}
 <figure class="caption-image {% if include.thumbnail == "true" %} thumbnail{%- endif -%}">
 {%- endif -%}
-{%- if include.link -%}
-    <a href="{{- include.link -}}">
-{%- elsif include.thumbnail == "true" -%}
-    <a href="{{ site.baseurl }}/{{ include.url }}">
+{%- if img-link -%}
+    <a href="{{- img-link -}}">
 {%- endif -%}
         <img
             src="{{ site.baseurl }}/{{ include.url }}"
@@ -20,7 +37,7 @@
                 style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}"
             {% endif -%}
         >
-{%- if include.link or include.thumbnail -%}
+{%- if img-link -%}
     </a>
 {%- endif -%}
 {% if include.caption %}
