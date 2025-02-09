@@ -138,14 +138,10 @@ footer {
     font-size: 0.8rem !important;
 }
 
-.third-size {
-    width: calc(33% - 1rem);
-    margin: 0.5rem 0.5rem;
-}
-
-.float-right {
+.thumbnail {
     float: right;
     margin: 0.5rem 0 0.5rem 1rem;
+    width: calc(33% - 1rem);
 }
 
 .clear-right {
