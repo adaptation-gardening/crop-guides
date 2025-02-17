@@ -50,7 +50,7 @@ Images can be embedded using standard Markdown syntax, but this offers limited f
 ### Example: Image without caption
 
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/cushaw-homepage-banner-1000x250.png"
+    src="assets/images/cucurbita/argyrosperma/cushaw-homepage-banner-1000x250.png"
     alt="College of Cucurbita argyrosperma fruit in various situations"
 %}
 
@@ -58,7 +58,7 @@ Images can be embedded using standard Markdown syntax, but this offers limited f
 {% raw %}
 ```
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/cushaw-homepage-banner-1000x250.png"
+    src="assets/images/cucurbita/argyrosperma/cushaw-homepage-banner-1000x250.png"
     alt="College of Cucurbita argyrosperma fruit in various situations"
 %}
 ```
@@ -68,7 +68,7 @@ Images can be embedded using standard Markdown syntax, but this offers limited f
 Invoke the template with a caption to wrap the image with the html element `figure` and add a caption wrapped in `figcaption`.
 
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/cushaw-homepage-banner-1000x250.png"
+    src="assets/images/cucurbita/argyrosperma/cushaw-homepage-banner-1000x250.png"
     alt="College of Cucurbita argyrosperma fruit in various situations"
     caption="Sometimes a caption adds valuable information that can't easily be conveyed any other way."
 %}
@@ -77,7 +77,7 @@ Invoke the template with a caption to wrap the image with the html element `figu
 {% raw %}
 ```
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/cushaw-homepage-banner-1000x250.png"
+    src="assets/images/cucurbita/argyrosperma/cushaw-homepage-banner-1000x250.png"
     alt="College of Cucurbita argyrosperma fruit in various situations"
     caption="Sometimes a caption adds valuable information that can't easily be conveyed any other way."
 %}
@@ -88,7 +88,7 @@ Invoke the template with a caption to wrap the image with the html element `figu
 ### Example: Wrap text around floating captioned image
 
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
@@ -101,7 +101,7 @@ The text in this paragraph wraps to the left side of the image, assuming the win
 {% raw %}
 ```
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
@@ -114,38 +114,38 @@ The text in this paragraph wraps to the left side of the image, assuming the win
 Three thumbnail images can be placed in a row. The `<hr>` element or another element with `clear: right;` such as `<h1>` should be used after each row.
 
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
 %}
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
 %}
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
 %}
 <hr>
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
 %}
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
 %}
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
@@ -158,38 +158,38 @@ Three thumbnail images can be placed in a row. The `<hr>` element or another ele
 {% raw %}
 ```
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
 %}
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
 %}
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
 %}
 <hr>
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
 %}
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"
 %}
 {% include embed_image.html
-    url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
     mode="thumbnail"

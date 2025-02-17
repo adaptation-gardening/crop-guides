@@ -7,7 +7,7 @@ nav_order: 10
 # Adaptation Gardening Crop Guides
 
 {% include embed_image.html
-    url="assets/images/gts-logo-416x214.png"
+    src="assets/images/gts-logo-416x214.png"
     width="12rem"
     alt="Going to Seed Logo"
     link="https://goingtoseed.org/"
@@ -16,7 +16,7 @@ nav_order: 10
 ## This is a project of Going to Seed.
 
 {% include embed_image.html
-    url="assets/images/gts-landing-splash-1000x490.png"
+    src="assets/images/gts-landing-splash-1000x490.png"
     width="50%"
     alt="Inspiring a shift in agriculture towards adaptation, community, and diversity"
 %}

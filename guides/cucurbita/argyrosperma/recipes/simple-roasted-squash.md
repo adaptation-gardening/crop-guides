@@ -16,7 +16,7 @@ Placeholder: This is the section to introduce the recipe, share any interesting 
 
 ## Ingredients
 
-{% include embed_image.html url="assets/images/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colander" caption="Seed saving and sharing is integrated into the guide" mode="thumbnail" %}
+{% include embed_image.html src="assets/images/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colander" caption="Seed saving and sharing is integrated into the guide" mode="thumbnail" %}
 
 Placeholder
 
