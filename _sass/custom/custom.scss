@@ -94,7 +94,7 @@ ul.nav-list .nav-list-item .nav-list-link {
 .main-content h1 {
     font-size: 2.8em !important;
     font-weight: 400;
-    clear: right; // keeps border line from overlapping floating images
+    clear: both; // keeps border line from overlapping floating images
     color: $adaptation-purple;
 }
 
@@ -115,24 +115,49 @@ ul.nav-list .nav-list-item .nav-list-link {
 }
 
 .main-content {
+    div.image-figure-wrap {
+        padding: 0;
+      }
+    
+    figure.captioned {
+        background-color: $adaptation-tan;
+    }
 
     figure {
         padding: 0;
-        background-color: $adaptation-tan;
-
+        
+        img {
+            height: 100%;
+            width: 100%;
+            object-fit: contain;
+          }
+        
         figcaption {
             padding: 0 0.4rem 0.4rem 0.4rem;
             font-size: 0.9rem;
             line-height: 0.9;
+            color: $blue-dark;
+  
+            a {
+              text-decoration: none;
+              color: $blue-dark;
+  
+              &:hover {
+                text-decoration: underline;
+              }
+            }
         }
     }
-    
+}
 
+
+p.note-title > p:first-child, blockquote.note-title > p:first-child {
+	font-size: 0.9rem;
 }
 
 hr {
     background-color: $adaptation-tan;
-    clear: right; // clear floating images
+    clear: both; // clear floating images
 }
 
 footer {
@@ -145,18 +170,20 @@ footer {
     width: calc(33% - 1rem);
 }
 
-.clear-right {
-    clear: right;
+.gallery {
+    float: left;
+    margin: 0.5rem 0.5rem 0.5rem 0;
+    width: calc(33% - 1rem);
 }
 
 blockquote, p.note, p.warning, p.important, p.idea {
-    clear: right;           // callouts will appear below floating photos, like h1 and h2
+    clear: both;           // callouts will appear below floating photos, like h1 and h2
     border-radius: unset;   // match goingtoseed.org
     box-shadow: unset;      // match goingtoseed.org
 }
 
 div.language-plaintext {
-    clear: right;
+    clear: both;
 }
 
 // Print-only styles.
