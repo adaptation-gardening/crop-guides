@@ -17,7 +17,7 @@ For a large winter squash fruit, a cook might store the fruit for a few months w
 Squash can be frozen either as clean raw fruit or as cooked puree.
 
 ## Ingredients
-{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" thumbnail="true" %}
+{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" mode="thumbnail" %}
 
 - 1 or more squash fruit
 - Vegetable oil
@@ -54,22 +54,22 @@ Because the rind of a hard shell squash fruit does not soften with roasting, be 
 
 ## Image gallery
 
-{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/finished-cushaw-puree-thumbnail.jpg" alt="Mashing roasted cushaw flesh" caption="A potato masher used to bring the roasted cushaw to puree consistency." thumbnail="true" %}
+{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/finished-cushaw-puree-thumbnail.jpg" alt="Mashing roasted cushaw flesh" caption="A potato masher used to bring the roasted cushaw to puree consistency." mode="thumbnail" %}
 
-{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/cut-cushaw-neck-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" thumbnail="true" %}
+{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/cut-cushaw-neck-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" mode="thumbnail" %}
 
-{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/cutting-hardshell-cushaw-thumbnail.jpg" alt="Squash with hard shells are difficult to cut" caption="Cutting the flesh of a hardshell fruit starting from the inside allows the cook to use their hands to split the pieces if the knife doesn't completely separate the rind" thumbnail="true" %}
-
-<hr>
-
-{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colander" caption="If the fruit is of good quality, consider [saving the seeds](https://goingtoseed.org/pages/processing-squash-seeds)." thumbnail="true" %}
-
-{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/pre-roasting-cushaw-tray-thumbnail.jpg" alt="Pieces of cut squash, coated in oil and salt, laid with the inside down on aluminum foil or parchment paper" caption="Place the fruit pieces with the inside down on paper or aluminum foil plus a light coating of oil and salt" thumbnail="true" %}
-
-{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/roasted-cushaw-tray-thumbnail.jpg" alt="Roasted cushaw pieces after approximately an hour roasting in the oven." caption="These cushaw pieces are finished roasting." thumbnail="true" %}
+{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/cutting-hardshell-cushaw-thumbnail.jpg" alt="Squash with hard shells are difficult to cut" caption="Cutting the flesh of a hardshell fruit starting from the inside allows the cook to use their hands to split the pieces if the knife doesn't completely separate the rind" mode="thumbnail" %}
 
 <hr>
 
-{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/scooping-cushaw-puree-thumbnail.jpg" alt="Scooping roasted cushaw into bowl" caption="A large spoon, or in this case an ice cream scoop, can be used to separate the cooked flesh." thumbnail="true" %}
+{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colander" caption="If the fruit is of good quality, consider [saving the seeds](https://goingtoseed.org/pages/processing-squash-seeds)." mode="thumbnail" %}
 
-{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/cushaw-puree-in-freezer-bag-thumbnail.jpg" alt="Finished cushaw puree in a labelled freezer bag" caption="Surplus puree can be frozen for later use." thumbnail="true" %}
+{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/pre-roasting-cushaw-tray-thumbnail.jpg" alt="Pieces of cut squash, coated in oil and salt, laid with the inside down on aluminum foil or parchment paper" caption="Place the fruit pieces with the inside down on paper or aluminum foil plus a light coating of oil and salt" mode="thumbnail" %}
+
+{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/roasted-cushaw-tray-thumbnail.jpg" alt="Roasted cushaw pieces after approximately an hour roasting in the oven." caption="These cushaw pieces are finished roasting." mode="thumbnail" %}
+
+<hr>
+
+{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/scooping-cushaw-puree-thumbnail.jpg" alt="Scooping roasted cushaw into bowl" caption="A large spoon, or in this case an ice cream scoop, can be used to separate the cooked flesh." mode="thumbnail" %}
+
+{% include embed_image.html url="assets/images/cucurbita/argyrosperma/recipes/roasted-cushaw-puree/cushaw-puree-in-freezer-bag-thumbnail.jpg" alt="Finished cushaw puree in a labelled freezer bag" caption="Surplus puree can be frozen for later use." mode="thumbnail" %}

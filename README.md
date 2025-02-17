@@ -91,7 +91,7 @@ Invoke the template with a caption to wrap the image with the html element `figu
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 The text in this paragraph wraps to the left side of the image, assuming the window is wide enough.
 
@@ -104,7 +104,7 @@ The text in this paragraph wraps to the left side of the image, assuming the win
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 ```
 {% endraw %}
@@ -117,38 +117,38 @@ Three thumbnail images can be placed in a row. The `<hr>` element or another ele
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 {% include embed_image.html
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 {% include embed_image.html
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 <hr>
 {% include embed_image.html
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 {% include embed_image.html
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 {% include embed_image.html
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 <hr>
 
@@ -161,38 +161,38 @@ Three thumbnail images can be placed in a row. The `<hr>` element or another ele
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 {% include embed_image.html
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 {% include embed_image.html
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 <hr>
 {% include embed_image.html
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 {% include embed_image.html
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 {% include embed_image.html
     url="assets/images/cucurbita/argyrosperma/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander"
     caption="Seed saving and sharing is integrated into the guide"
-    thumbnail="true"
+    mode="thumbnail"
 %}
 <hr>
 ```

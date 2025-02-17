@@ -22,7 +22,7 @@ In places with less consistent pressure, you might hold back a quarter or half o
     url="assets/images/cucurbita/argyrosperma/growing/immature-argyrosperma-fruit-original.jpg"
     alt="A young C. argyrosperma cushaw fruit grows on the vine"
     caption="The young fruit grow rapidly once fertilized, this fruit has only been growing for about one week."
-    thumbnail="true"
+    mode="thumbnail"
 %}
 
 Some gardeners may find that they have too many squash vines growing for the available space. If you are concerned about spacing, you may consider thinning your vines to a distance of between two and three feet apart.
