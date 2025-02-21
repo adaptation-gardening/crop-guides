@@ -10,7 +10,9 @@
 {%- assign img-link  = false -%}
 {%- assign display-mode  = false -%}
 
-{%- if include.width or include.height -%}
+{%- if include.mode == "thumbnail" or include.mode == "gallery" -%}
+    {%- assign display-mode = {{include.mode}} -%}
+{%- elsif include.width or include.height -%}
     {%- assign img-style = true -%}
 {%- endif -%}
 
@@ -39,7 +41,6 @@
     {%- endif -%}
 {%- elsif include.mode == "thumbnail" or include.mode == "gallery" -%}
     {%- assign img-link = img-src -%}
-    {%- assign display-mode = {{include.mode}} -%}
 {%- endif -%}
 
 <div class="image-figure-wrap {%- if display-mode %} {{display-mode}}{%- endif -%}">
